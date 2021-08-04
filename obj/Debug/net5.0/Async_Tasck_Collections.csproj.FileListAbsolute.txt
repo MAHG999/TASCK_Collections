@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\Async_Tasck_Collections.exe
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\Async_Tasck_Collections.deps.json
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\Async_Tasck_Collections.runtimeconfig.json
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\Async_Tasck_Collections.runtimeconfig.dev.json
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\Async_Tasck_Collections.dll
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\ref\Async_Tasck_Collections.dll
+C:\Users\marco\source\repos\Async_Tasck_Collections\bin\Debug\net5.0\Async_Tasck_Collections.pdb
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.AssemblyInfo.cs
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.dll
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\ref\Async_Tasck_Collections.dll
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.pdb
+C:\Users\marco\source\repos\Async_Tasck_Collections\obj\Debug\net5.0\Async_Tasck_Collections.genruntimeconfig.cache
